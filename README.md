@@ -1,4 +1,4 @@
-# AirbnBozeman
+## AirbnBozeman ML Project
 
 Project goal: Use machine learning to create a tool that can suggest a listing price for new Airbnb hosts based on the prices and characteristics of other listings in their market. 
 
