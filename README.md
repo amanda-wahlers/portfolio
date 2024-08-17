@@ -31,8 +31,9 @@ Results: The best model is able to predict the price with a mean absolute error 
 
 ## 2. Analysis of Bozeman's Recent Short-Term Rental (STR) Law
 
-Project goal: Explore the effects of Bozeman's December 2023 short-term rental law on Airbnb listings. The law banned new whole-property short-term rentals, limited where STRs could locate in the city, and (essentially) put a limit on the number of listings a host can have in Bozeman.
+Project goal: Explore the effects of Bozeman's December 2023 short-term rental (STR) law on Airbnb listings. 
 
+Background: Bozeman's December 2023 STR law banned new whole-property short-term rentals, limited where STRs could locate in the city, and (essentially) put a limit on the number of listings a host can have in Bozeman.
 
 Data: Bozeman, Montana, US; August, 2023 - June, 2024; downloaded from Inside Airbnb @ https://insideairbnb.com/get-the-data/
 
@@ -43,8 +44,8 @@ Project steps in this notebook:
 
 Results:
 
-We find that Bozeman's 2023 STR law reduced the total number of Airbnb listings in Bozeman by 7%, reduced the total number of active Airbnb listings by 12%, and reduced the total number of active STR Airbnb listings by 21% between August 2023 and June 2024.
+I find that Bozeman's 2023 STR law reduced the total number of Airbnb listings in Bozeman by 7%, reduced the total number of active Airbnb listings by 12%, and reduced the total number of active STR Airbnb listings by 21% between August 2023 and June 2024.
 
-We find that this decrease in the number of active STR listings is largely driven by a decrease in house (-14%) & apartment (-10%) active STR listings, which are the most numerous listing types in Bozeman and the kinds of listings at which Bozeman's law is most targeted.
+I find that this decrease in the number of active STR listings is largely driven by a decrease in house (-14%) & apartment (-10%) active STR listings, which are the most numerous listing types in Bozeman and the kinds of listings at which Bozeman's law is most targeted.
 
-However, our results also highlight that, in the short term, roughly half of the observed decrease in STRs in Bozeman has occurred as the result of a reshuffling of properties from "short-term rental" listings (accepting stays less than 28 days) to "medium-term rental" listings (only accepting stays 28+ days), but still essentially funcitioning outside of Bozeman's long-term rental and housing market. 
+However, my results also highlight that, in the short term, roughly half of the observed decrease in STRs in Bozeman has occurred as the result of a reshuffling of properties from "short-term rental" listings (accepting stays less than 28 days) to "medium-term rental" listings (only accepting stays 28+ days), but still essentially funcitioning outside of Bozeman's long-term rental and housing market. 
