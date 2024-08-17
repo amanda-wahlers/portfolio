@@ -48,4 +48,4 @@ I find that Bozeman's 2023 STR law reduced the total number of Airbnb listings i
 
 I find that this decrease in the number of active STR listings is largely driven by a decrease in house (-14%) & apartment (-10%) active STR listings, which are the most numerous listing types in Bozeman and the kinds of listings at which Bozeman's law is most targeted.
 
-However, my results also highlight that, in the short term, roughly half of the observed decrease in STRs in Bozeman has occurred as the result of a reshuffling of properties from "short-term rental" listings (accepting stays less than 28 days) to "medium-term rental" listings (only accepting stays 28+ days), but still essentially funcitioning outside of Bozeman's long-term rental and housing market. 
+However, my results also highlight that, in the short term, roughly half of the observed decrease in STRs in Bozeman has occurred as the result of a reshuffling of properties from "short-term rental" listings (accepting stays less than 28 days) to "medium-term rental" listings (only accepting stays 28+ days), but still essentially functioning outside of Bozeman's long-term rental and housing market. 
